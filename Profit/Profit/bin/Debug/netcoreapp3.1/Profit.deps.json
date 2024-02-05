@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Profit/1.0.0": {
+        "runtime": {
+          "Profit.dll": {}
+        },
+        "resources": {
+          "af-NA/Profit.resources.dll": {
+            "locale": "af-NA"
+          },
+          "agq/Profit.resources.dll": {
+            "locale": "agq"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Profit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
